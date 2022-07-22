@@ -1,5 +1,6 @@
 package revature.Electricity;
 
+// this package is used to establish connection, and to retrieve information from SQl database
 import java.sql.*;
 
 public class Conn {
